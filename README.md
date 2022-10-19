@@ -2,9 +2,9 @@ Hello. I'm Dario.
 
 You can contact me at 
 
-+ dario.otarola753@gmail.com
++ 
 
-+ <a href= "https://www.linkedin.com/in/dario-otarola/">linkedin.com/in/dario-otarola/</a>
++ <a href= "https://www.linkedin.com/in/XX/">linkedin.com/in/XX/</a>
 
 <!---
 Dario753/Dario753 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
